@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet ÖZDEN</h1>
 <h3 align="center">I am a graduate of Konya Technical University and a C# and .NET-based Game Developer. I aim to transform my web experience and technical expertise into creative game projects.</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmetOzdn&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetozdn&show_icons=true&theme=radical)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetozdn" alt="ahmetozdn" /></a> </p>
 
