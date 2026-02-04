@@ -3,8 +3,7 @@
 
 I am a graduate of Konya Technical University and a C# and .NET-based Game Developer. I aim to transform my web experience and technical expertise into creative game projects.
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/ahmet-%C3%B6zden-8845b9285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
 
 ## Skills
 
@@ -27,4 +26,7 @@ I am a graduate of Konya Technical University and a C# and .NET-based Game Devel
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetozdn&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+
+## Contact Me
+<p><a href="https://www.linkedin.com/in/ahmet-%C3%B6zden-8845b9285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 
