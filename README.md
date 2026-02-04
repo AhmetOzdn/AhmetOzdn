@@ -1,5 +1,5 @@
 # Hello, I'm Ahmet ÖZDEN 👋
-### Game Developer | C# & .NET Expert
+### Game Developer  🚀
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ahmetozdn&label=Profile%20Views&color=3685f3&style=flat" alt="ahmetozdn" />
@@ -9,7 +9,7 @@ I am a graduate of Konya Technical University and a Game Developer specializing 
 
 ---
 
-### 🚀 About Me
+### About Me
 - 🌱 Currently deep-diving into **Unity** and C# game patterns.
 - 👨‍💻 Leveraging .NET expertise for robust game architecture.
 - 📂 View my portfolio and repositories at [github.com/AhmetOzdn](https://github.com/AhmetOzdn).
