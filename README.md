@@ -1,7 +1,7 @@
 # Hello, I'm Ahmet ÖZDEN
 ### Game Developer
 
-I am a graduate of Konya Technical University and a C# and .NET-based Game Developer. I aim to transform my web experience and technical expertise into creative game projects.
+I am a graduate of Konya Technical University and a C# and .NET-based Game Developer. I am to transform my web experience and technical expertise into creative game projects.
 
 
 
