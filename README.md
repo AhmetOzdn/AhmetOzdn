@@ -21,7 +21,7 @@ I am a graduate of Konya Technical University and a C# and .NET-based Game Devel
 
 ## GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetozdn&theme=null" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetozdn&theme=tokyonight" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
 
