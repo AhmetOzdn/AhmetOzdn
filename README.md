@@ -5,30 +5,30 @@
   <img src="https://komarev.com/ghpvc/?username=ahmetozdn&label=Profile%20Views&color=3685f3&style=flat" alt="ahmetozdn" />
 </p>
 
-I am a graduate of Konya Technical University and a Game Developer specializing in C# and .NET. My goal is to bridge my web development background and technical expertise with creative, high-performance game projects. I am currently focused on mastering the **Unity** ecosystem.
+I am a graduate of Konya Technical University and a Game Developer specializing in C# and .NET. I aim to transform my technical background into high-quality game projects, with a current focus on mastering the **Unity** engine.
 
 ---
 
 ### 🚀 About Me
-- 🌱 Currently deep-diving into **Unity** and advanced game mechanics.
-- 👨‍💻 Transitioning years of technical expertise into interactive experiences.
-- 📂 Check out my open-source contributions and projects below.
+- 🌱 Currently deep-diving into **Unity** and C# game patterns.
+- 👨‍💻 Leveraging .NET expertise for robust game architecture.
+- 📂 View my portfolio and repositories at [github.com/AhmetOzdn](https://github.com/AhmetOzdn).
 
 ---
 
 ### 🔧 Languages and Tools
 
-**Core Tech (Game & Back-end)**
+**Core Stack**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
 </p>
 
 **Web & Tools**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
@@ -37,11 +37,12 @@ I am a graduate of Konya Technical University and a Game Developer specializing 
 
 ---
 
-### 📊 Performance Metrics
+### 🔥 Coding Consistency
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetozdn&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+### 📈 Development Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetozdn&radius=16&theme=rogue&area=true&order=5" width="100%" alt="activity-graph" />
 </p>
