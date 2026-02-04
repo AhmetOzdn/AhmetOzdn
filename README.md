@@ -1,33 +1,63 @@
-# Hello, I'm Ahmet ÖZDEN
-### Game Developer
-
-I am a graduate of Konya Technical University and a C# and .NET-based Game Developer. I am to transform my web experience and technical expertise into creative game projects.
-
-
-
-## Skills
+# Hello, I'm Ahmet ÖZDEN 👋
+### Game Developer | C# & .NET Expert
 
 <p align="left">
-<img src="https://camo.githubusercontent.com/a1b3da6c490bd298d1443be46c4afbb346c0694e80b7e3a2e90861d83d4e3e39/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667" alt="unity" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ahmetozdn&label=Profile%20Views&color=3685f3&style=flat" alt="ahmetozdn" />
 </p>
 
-## GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetozdn&label=Profile%20views&color=3685f3&style=flat" alt="ahmetozdn" /> </p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetozdn&theme=tokyonight" alt="GitHub Streak" />
+I am a graduate of Konya Technical University and a Game Developer specializing in C# and .NET. My goal is to bridge my web development background and technical expertise with creative, high-performance game projects. I am currently focused on mastering the **Unity** ecosystem.
 
-## GitHub Activity Graph
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetozdn&radius=16&theme=rogue&area=true&order=5" height="300" alt="activity-graph" />
+### 🚀 About Me
+- 🌱 Currently deep-diving into **Unity** and advanced game mechanics.
+- 👨‍💻 Transitioning years of technical expertise into interactive experiences.
+- 📂 Check out my open-source contributions and projects below.
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/ahmet-%C3%B6zden-8845b9285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+---
 
+### 🔧 Languages and Tools
 
+**Core Tech (Game & Back-end)**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>
+</p>
+
+**Web & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 Performance Metrics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetozdn&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmetozdn&radius=16&theme=rogue&area=true&order=5" width="100%" alt="activity-graph" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmet-%C3%B6zden-8845b9285/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a> 
+<a href="mailto:a.ozdenn0@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://github.com/AhmetOzdn" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+</p>
