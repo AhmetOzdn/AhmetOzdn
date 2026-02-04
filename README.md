@@ -8,6 +8,7 @@ I am a graduate of Konya Technical University and a C# and .NET-based Game Devel
 ## Skills
 
 <p align="left">
+<img src="https://camo.githubusercontent.com/a1b3da6c490bd298d1443be46c4afbb346c0694e80b7e3a2e90861d83d4e3e39/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667" alt="unity" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
@@ -16,7 +17,6 @@ I am a graduate of Konya Technical University and a C# and .NET-based Game Devel
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://camo.githubusercontent.com/a1b3da6c490bd298d1443be46c4afbb346c0694e80b7e3a2e90861d83d4e3e39/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f756e69747933642f756e69747933642d69636f6e2e737667" alt="unity" width="40" height="40"/>&nbsp;
 </p>
 
 ## GitHub Stats
