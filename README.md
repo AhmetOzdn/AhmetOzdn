@@ -12,7 +12,7 @@ I am a graduate of Konya Technical University and a Game Developer specializing 
 ### About Me
 - 🌱 Currently deep-diving into **Unity** and C# game patterns.
 - 👨‍💻 Leveraging .NET expertise for robust game architecture.
-- 📂 View my portfolio and repositories at [github.com/AhmetOzdn](https://github.com/AhmetOzdn).
+- 📂 View my portfolio and repositories at [github.com/AhmetOzdn](https://github.com/AhmetOzdnhttps://github.com/AhmetOzdn?tab=repositories).
 
 ---
 
