@@ -20,7 +20,7 @@ I am a graduate of Konya Technical University and a C# and .NET-based Game Devel
 </p>
 
 ## GitHub Stats
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetozdn&label=Profile%20views&color=3685f3&style=flat" alt="ahmetozdn" /> </p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetozdn&theme=tokyonight" alt="GitHub Streak" />
 
 ## GitHub Activity Graph
@@ -29,4 +29,5 @@ I am a graduate of Konya Technical University and a C# and .NET-based Game Devel
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/ahmet-%C3%B6zden-8845b9285/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
 
